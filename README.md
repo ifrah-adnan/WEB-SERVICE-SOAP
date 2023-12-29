@@ -10,14 +10,14 @@ L'objectif de ce TP est de comprendre et de mettre en œuvre des services web SO
 
 ## Structure du Projet
 
-Le projet est structuré comme suit :
-2 folder:
+<h2>Le projet est structuré comme suit :
+2 folder:</h2>
 -Serverws responsable a creer le server et mettre le web Service et genere wsdl
-Voici image de Wsdl 
+<h3>Voici image de Wsdl</h3> 
 <img src="wsdl.png">
-le traitement sur SOAP:
+<h3>le traitement sur SOAP:</h3>
 <img src="Soap Convertir.png">
-<img src="Soap getCompte.png">
-<img src="Soap getListCOmpt.png">
--ClientWS responsable a consommer le WebService
+<img src="soap getCompte.png">
+<img src="Soap getListCompt.png">
+<h3>-ClientWS responsable a consommer le WebService</h3>
 <img src="consammationws.png">
