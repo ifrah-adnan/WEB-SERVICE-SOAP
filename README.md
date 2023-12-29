@@ -16,8 +16,11 @@ L'objectif de ce TP est de comprendre et de mettre en œuvre des services web SO
 <h3>Voici image de Wsdl</h3> 
 <img src="wsdl.png">
 <h3>le traitement sur SOAP:</h3>
+<h4>Methode de conversion</h4>
 <img src="Soap Convertir.png">
+<h4>Mehode de retouner un Compte D'apres un code</h4>
 <img src="soap getCompte.png">
+<h4> Methode qui permet de retourner une liste de Compte</h4>
 <img src="Soap getListCompt.png">
 <h3>-ClientWS responsable a consommer le WebService</h3>
 <img src="consammationws.png">
